@@ -18,8 +18,8 @@ import project06big from "./../img/projects/06-big.jpg";
 
 const projects = [
     {
-        title:'Website of the window glazing company',
-        skills: 'React,Node.js,MongoDB',
+        title:'Landing window installation',
+        skills: 'HTML,Css,Sass',
         img: project01,
         imgBig:project01big,
         gitHubLink: 'https://github.com/',
@@ -27,23 +27,23 @@ const projects = [
 
     {
         title:'Online food store on react',
-        skills: 'React,Node.js,MongoDB',
+        skills: 'ReactJS,Redux',
         img: project02,
         imgBig:project02big,
         gitHubLink: 'https://github.com/',
     },
 
     {
-        title:'Registration and authorization form with validation',
-        skills: 'React,Node.js,MongoDB',
+        title:'Registration form',
+        skills: 'Html,css,js',
         img: project03,
         imgBig:project03big,
         gitHubLink: 'https://github.com/',
     },
 
     {
-        title:'Dating app',
-        skills: 'React,Node.js,MongoDB',
+        title:'Online food store on JS',
+        skills: 'Html, Css, Js',
         img: project04,
         imgBig:project04big,
         gitHubLink: 'https://github.com/',
@@ -51,15 +51,15 @@ const projects = [
 
     {
         title:'Landing',
-        skills: 'React,Node.js,MongoDB',
+        skills: 'Html, Css',
         img: project05,
         imgBig:project05big,
         gitHubLink: 'https://github.com/',
     },
 
     {
-        title:'Gaiming community',
-        skills: 'React,Node.js,MongoDB',
+        title:'ToDo application',
+        skills: 'Html,Css, Js',
         img: project06,
         imgBig:project06big,
         gitHubLink: 'https://github.com/',

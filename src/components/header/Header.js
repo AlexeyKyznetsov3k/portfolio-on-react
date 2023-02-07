@@ -14,8 +14,8 @@ const Header = () => {
             <div className="header__text">
                 <p>with passion for learning and creating.</p>
             </div>
-                <a href="#!" className="btn">
-                    Download CV
+                <a href="https://ekaterinburg.hh.ru/resume/b09cc247ff066b7d820039ed1f7a6f6a49564c" target ="blank" className="btn">
+                go to resume
                 </a>
         </div>
 </header>
