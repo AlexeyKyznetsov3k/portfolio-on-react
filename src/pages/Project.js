@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import BtnGitHab from "../components/btnGitHab/BtnGitHab";
 import {projects} from "../helpers/projectsList";
-import img from"./../img/projects/02-big.jpg"
+
 
 
 const Project = () => {
@@ -22,7 +22,7 @@ const Project = () => {
                 <div className="project-details__desc">
                     <p>Skills: {project.skills}</p>
                 </div>
-                <BtnGitHab link="https://github.com"/>
+                <BtnGitHab link={project.gitHubLink}/>
             </div>
         </div>
     </main>

@@ -22,7 +22,7 @@ const projects = [
         skills: 'HTML,Css,Sass',
         img: project01,
         imgBig:project01big,
-        gitHubLink: 'https://github.com/',
+        gitHubLink: 'https://alexeykyznetsov3k.github.io/Landing_window_installation/',
     },
 
     {
